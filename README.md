@@ -1,4 +1,4 @@
-# Example Site
+# Donation System
 
-This os a samgkjgkjhhvhvkkhyfug
+This is a donation based app for children in need.
 
